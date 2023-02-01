@@ -215,5 +215,6 @@ $(document).ready(function() {
         $(".nextQuiz").addClass("hidden");
       }
     });
+    
   
 });
